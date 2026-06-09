@@ -1,2 +1,2 @@
-# House-Owner-Register-pages
-House owner register page
+register.html
+register.html
